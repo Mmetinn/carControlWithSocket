@@ -1,0 +1,4 @@
+androidClient:Android studioda yazılmış olan arayüz ve java client kaynak kodları mevcut.
+raspiClient:Raspberry yani arabayı hareket ettiren java client.
+sunucu:Bilgisayar üzerinde çalışan, araba ve raspberry arasındaki haberleşmeyi sağlayan java sunucusu.
+uygulamaprojesirapor.docx:Projenin raporu mevcut.
